@@ -22,7 +22,7 @@
 <br/>  
 
 
-
+<img src="https://github.com/rodrigomartinze/rodrigomartinze/blob/main/My-skill-set-7-4-2025.gif?raw=true" width="300px">
 <img src="https://images.cooltext.com/5727551.png" width="300px">
 <table><tr><td valign="top" width="33%">  
 
