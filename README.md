@@ -100,7 +100,8 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigomartinze&layout=compact&langs_count=10&theme=tokyonight" width="100%">
 
-
+### Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodmartinze&layout=compact&langs_count=10&theme=dark)
   
 
 <br/>  
