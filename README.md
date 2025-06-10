@@ -98,7 +98,7 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigomartinze&layout=compact&langs_count=10&theme=tokyonight" width="100%">
 
 
   
