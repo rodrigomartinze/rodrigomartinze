@@ -102,7 +102,11 @@ If things goes well, this section should automatically be replaced by a list of 
 
 ### Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigomartinze&layout=compact&langs_count=10&theme=dark&size=large)
-  
+
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigomartinze&layout=compact&langs_count=10&theme=dark" width="80%">
+</div>
 
 <br/>  
 
