@@ -97,6 +97,9 @@ If things goes well, this section should automatically be replaced by a list of 
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigomartinze&layout=compact&langs_count=10&theme=dark" width="80%">
+</div>
 
 
 <br/>  
