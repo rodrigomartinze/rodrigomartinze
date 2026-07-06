@@ -44,6 +44,8 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
+<img src="https://streak-stats.demolab.com/?user=rodrigomartinze&amp;theme=dark&amp;hide_border=false" alt="">
+
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=rodrigomartinze&&style=flat-square" align="center" />
 </div>  
