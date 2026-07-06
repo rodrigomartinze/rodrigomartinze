@@ -15,7 +15,6 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=rodrigomartinze&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <div align="center">
     <!-- Tarjeta de Rachas (Streak Stats) -->
@@ -27,10 +26,7 @@
 
 
 
-<div align="center">
-    <img src="https://streak-stats.demolab.com?user=rodrigomartinze&theme=dark&hide_border=true" width="100%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigomartinze&layout=donut&theme=dark&hide_border=true" width="50%">
-</div>
+
 
 ---
 
