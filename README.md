@@ -102,6 +102,10 @@ If things goes well, this section should automatically be replaced by a list of 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigomartinze&layout=donut&theme=dark&hide_border=true" width="50%">
 </div>
 
+## 📊 Languages I use
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 <br/>  
 
