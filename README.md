@@ -26,18 +26,12 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-  <table>
-    <tr>
-      <td align="left" width="50%">
-        <img src="https://streak-stats.demolab.com?user=rodrigomartinze&theme=dark&hide_border=true" width="80%">
-      </td>
-      <td align="right" width="50%">
-        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=rodrigomartinze&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="80%">
-      </td>
-    </tr>
-  </table>
+    <!-- Tarjeta de Rachas (Streak Stats) -->
+    <img src="https://streak-stats.demolab.com?user=rodrigomartinze&theme=dark&hide_border=true" width="90%">
+    <br><br>
+    <!-- Tarjeta de Lenguajes (Diseño Compacto Grande) -->
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=rodrigomartinze&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="90%">
 </div>
-
 
 
 ---
