@@ -15,13 +15,16 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=rodrigomartinze&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=rodrigomartinze&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
 <div align="center">
-    <img src="https://demolab.com" width="100%">
+    <!-- Tarjeta de Rachas (Streak Stats) -->
+    <img src="https://streak-stats.demolab.com?user=rodrigomartinze&theme=dark&hide_border=true" width="100%">
     <br><br>
+    <!-- Tarjeta de Lenguajes (Diseño Compacto Grande) -->
     <img src="https://shion.dev" width="100%">
 </div>
+
 
 
 <div align="center">
