@@ -20,7 +20,7 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=rodrigomartinze&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=rodrigomartinze&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
 <br/>  
@@ -44,7 +44,6 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
-<img src="https://streak-stats.demolab.com/?user=rodrigomartinze&amp;theme=dark&amp;hide_border=false" alt="">
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=rodrigomartinze&&style=flat-square" align="center" />
