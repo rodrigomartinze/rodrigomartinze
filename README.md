@@ -98,7 +98,8 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigomartinze&layout=compact&langs_count=10&theme=dark" width="80%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigomartinze&layout=compact&langs_count=10&theme=dark&cache_seconds=1800" width="80%">
+  <img src="https://github-readme-stats.vercel.app/api?username=rodrigomartinze&show_icons=true&count_private=true&hide_border=true&cache_seconds=1800" width="100%">
 </div>
 
 
