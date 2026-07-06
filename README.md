@@ -20,6 +20,14 @@
 </div>
 
 
+# 📊 GitHub Stats:
+<div>
+    <!-- Tarjeta de Rachas (Streak Stats) -->
+    <img align="left" src="https://streak-stats.demolab.com?user=rodrigomartinze&theme=dark&hide_border=true" width="90%">
+    <br><br><br><br>
+    <!-- Tarjeta de Lenguajes (Diseño Compacto Grande) -->
+    <img align="right" src="https://github-readme-stats.shion.dev/api/top-langs/?username=rodrigomartinze&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="90%">
+</div>
 ---
 
 
