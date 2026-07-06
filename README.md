@@ -17,6 +17,18 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=rodrigomartinze&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<div align="center">
+    <img src="https://demolab.com" width="100%">
+    <br><br>
+    <img src="https://shion.dev" width="100%">
+</div>
+
+
+<div align="center">
+    <img src="https://streak-stats.demolab.com?user=rodrigomartinze&theme=dark&hide_border=true" width="100%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigomartinze&layout=donut&theme=dark&hide_border=true" width="50%">
+</div>
+
 ---
 
 
@@ -33,10 +45,7 @@ If things goes well, this section should automatically be replaced by a list of 
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
-<div align="center">
-    <img src="https://streak-stats.demolab.com?user=rodrigomartinze&theme=dark&hide_border=true" width="100%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigomartinze&layout=donut&theme=dark&hide_border=true" width="50%">
-</div>
+
 
 ## 📊 Languages I use
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
