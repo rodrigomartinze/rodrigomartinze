@@ -26,7 +26,6 @@
 <br/>  
 
 
-[![Estadísticas de GitHub](https://demolab.com)](https://git.io/streak-stats)
 
 
 
